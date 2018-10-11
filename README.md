@@ -70,11 +70,14 @@
   * ["Same Difference Estimation and Inference for Distinctiveness at Westminster, 1935–2018" - Spirling, Huang, and Perry (2018)](https://www.nyu.edu/projects/spirling/documents/VeryBoring.pdf)
 
 ### Digital Humanities
-1. ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics" - Manovich (2016)](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
-2. ["There Will Be Numbers" - Piper (2016)](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
-3. ["The Life Cycles of Genres" - Underwood (2016)](http://culturalanalytics.org/2016/05/the-life-cycles-of-genres/)
-4. ["Genre, Computation, and the Varieties of Twentieth-Century U.S. Fiction" - Wilkens (2016)](http://culturalanalytics.org/2016/11/genre-computation-and-the-varieties-of-twentieth-century-u-s-fiction/)
-5. ["The Identity Issue" - Brown and Mandell (2018)](http://culturalanalytics.org/2018/02/the-identity-issue-an-introduction/)
+  * ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics" - Manovich (2016)](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
+  * ["There Will Be Numbers" - Piper (2016)](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
+* *Do literary genres experience cyclical popularity?*
+  * ["The Life Cycles of Genres" - Underwood (2016)](http://culturalanalytics.org/2016/05/the-life-cycles-of-genres/)
+* *Can we identify and classify literary genres using computational methods?*
+  * ["Genre, Computation, and the Varieties of Twentieth-Century U.S. Fiction" - Wilkens (2016)](http://culturalanalytics.org/2016/11/genre-computation-and-the-varieties-of-twentieth-century-u-s-fiction/)
+* *How are some scholars using computational methods to study identity?*
+  * ["The Identity Issue" - Brown and Mandell (2018)](http://culturalanalytics.org/2018/02/the-identity-issue-an-introduction/)
 
 ### Methods
 * *What should we do when we have missing data?*
@@ -83,7 +86,7 @@
   * ["The Data Science of Politics" - Margetts (2017)](http://journals.sagepub.com/doi/10.1177/1478929917693643)
 
 ### Ethics
-1. [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
+  * [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
 
 ### Data
 * *What is going to happen when we lose access to some data?*
