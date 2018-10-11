@@ -1,6 +1,6 @@
 ## Books
 1. [*Bit by Bit* - Salganik](https://www.bitbybitbook.com/)
-2. [*Decoding the Social World* - González-Bailón]
+2. *Decoding the Social World* - González-Bailón
 
 ## Articles
 ### General
@@ -34,7 +34,7 @@
 1. ["Exposure to ideologically diverse news and opinion on Facebook" - Bakshy, Messing, and Adamic (2015)](http://science.sciencemag.org/content/348/6239/1130)
 
 ### Methods
-1. ["Analyzing Incomplete Political Science Data: An Alternative Algorithm for Multiple Imputation" - King, Honaker, Joseph, and Scheve (2001)]
+1. ["Analyzing Incomplete Political Science Data: An Alternative Algorithm for Multiple Imputation" - King, Honaker, Joseph, and Scheve (2001)](https://www.cambridge.org/core/journals/american-political-science-review/article/analyzing-incomplete-political-science-data-an-alternative-algorithm-for-multiple-imputation/9E712982CCE2DE79A574FE98488F212B)
 
 ## Slide Decks
 1. [Sarah Shuggars's Dissertation Proposal](https://www.icloud.com/keynote/0CHGQf1pTCs0lyyPjwkVwvTZA)
