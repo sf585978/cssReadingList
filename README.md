@@ -13,9 +13,15 @@
 
 ### Experiments
 1. ["Experimental Study of Informal Rewards in Peer Production" - Restivo and van de Rijt (20120)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034358)
+Do social rewards lead to an increase in participation on Wikipedia?
+
 2. ["Exposure to opposing views on social media can increase political polarization" - Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky (2018)](http://www.pnas.org/content/115/37/9216.short)
+Does exposure to opposing political views increase political polarization?
+
 3. ["A 61-million-person experiment in social influence and political mobilization" - Bond, Fariss, Jones, Kramer, Marlow, Settle, and Fowler (2012)](https://www.nature.com/articles/nature11421)
+
 4. ["Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market" - Salganik, Dodds, and Watts (2006)](http://science.sciencemag.org/content/311/5762/854)
+Do early advantages lead to further inequality in the consumption of music?
 
 ### Simulation
 1. ["Mechanics and dynamics of social construction: Modeling the emergence of culture from individual mental representation " - Shaw (2015)](https://lynetteallenshaw.files.wordpress.com/2015/08/mechanicsdynamics_shaw.pdf)
