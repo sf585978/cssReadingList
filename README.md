@@ -11,7 +11,7 @@
 5. ["Critical Questions for Big Data: Provocations for a cultural, technological, and scholarly phenomenon" - boyd and Crawford (2012)](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878)
 6. ["Private traits and attributes are predictable from digital records of human behavior" - Kosinski, Stillwell, and Graepel (2013)](http://www.pnas.org/content/early/2013/03/06/1218772110.short)
 
-### Experimental
+### Experiments
 1. ["Experimental Study of Informal Rewards in Peer Production" - Restivo and van de Rijt (20120)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034358)
 2. ["Exposure to opposing views on social media can increase political polarization" - Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky (2018)](http://www.pnas.org/content/115/37/9216.short)
 3. ["A 61-million-person experiment in social influence and political mobilization" - Bond, Fariss, Jones, Kramer, Marlow, Settle, and Fowler (2012)](https://www.nature.com/articles/nature11421)
@@ -24,17 +24,43 @@
 4. ["Broadcasters and Hidden Influentials in Online Protest Diffusion" - González-Bailón, Borge-Holthoefer, and Moreno (2013)](http://journals.sagepub.com/doi/abs/10.1177/0002764213479371)
 5. ["The political blogosphere and the 2004 US election: divided they blog" - Adamic and Glance (2005)](https://dl.acm.org/citation.cfm?id=1134277)
 6. ["Inferring friendship network structure by using mobile phone data" - Eagle, Pentland, and Lazer (2009)](http://www.pnas.org/content/106/36/15274.short)
+7. ["Divergent discourse between protests and counter-protests: #BlackLivesMatter and #AllLivesMatter" - Gallagher, Reagan, Danforth, and Dodds (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195644)
+8. ["Women through the glass ceiling: gender asymmetries in Wikipedia" - Wagner, Graells-Garrido, Garcia and Menczer (2016)](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0066-4)
+9. ["Aspirational pursuit of mates in online dating markets" - Bruch and Newman (2018)](http://advances.sciencemag.org/content/4/8/eaap9815/tab-pdf)
 
-### Estimation
+### Estimating Latent Characteristics
 1. ["Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data" - Barberá (2017)](https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A)
 2. ["Quantifying Social Media’s Political Space: Estimating Ideology from Publicly Revealed Preferences on Facebook" - Bond and Messing (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/quantifying-social-medias-political-space-estimating-ideology-from-publicly-revealed-preferences-on-facebook/3FBEC9905B32D03F7D453FFCC3644CA3)
 3. ["Measuring the Happiness of Large-Scale Written Expression: Songs, Blogs, and Presidents - Dodds and Danforth (2010)](https://link.springer.com/article/10.1007/s10902-009-9150-9)
+4. ["Digital Trace Data in the Study of Public Opinion: An Indicator of Attention Toward Politics Rather Than Political Support" - Jungherr, Schoen, and Posegga (2016)](http://journals.sagepub.com/doi/full/10.1177/0894439316631043)
 
 ### News Exposure
 1. ["Exposure to ideologically diverse news and opinion on Facebook" - Bakshy, Messing, and Adamic (2015)](http://science.sciencemag.org/content/348/6239/1130)
 
+### Policy Evaluation
+1. ["Evaluating the impact of the 2012 Olympic Games policy on the regeneration of East London using spatio-temporal big data" - Zhou, Hristova, Noulas, and Mascolo (2018)](https://arxiv.org/abs/1807.01925)
+
+### Language
+1. ["Tie-breaker: Using language models to quantify gender bias in sports journalism" - Fu, Danescu-Niculescu-Mizil, and Lee](http://www.cs.cornell.edu/~liye/tennis.html)
+
+### Digital Humanities
+1. ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics" - Manovich (2016)](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
+2. ["There Will Be Numbers" - Piper (2016)](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
+3. ["The Life Cycles of Genres" - Underwood (2016)](http://culturalanalytics.org/2016/05/the-life-cycles-of-genres/)
+4. ["Genre, Computation, and the Varieties of Twentieth-Century U.S. Fiction" - Wilkens (2016)](http://culturalanalytics.org/2016/11/genre-computation-and-the-varieties-of-twentieth-century-u-s-fiction/)
+5. ["The Identity Issue" - Brown and Mandell (2018)](http://culturalanalytics.org/2018/02/the-identity-issue-an-introduction/)
+
 ### Methods
 1. ["Analyzing Incomplete Political Science Data: An Alternative Algorithm for Multiple Imputation" - King, Honaker, Joseph, and Scheve (2001)](https://www.cambridge.org/core/journals/american-political-science-review/article/analyzing-incomplete-political-science-data-an-alternative-algorithm-for-multiple-imputation/9E712982CCE2DE79A574FE98488F212B)
+2. ["The Data Science of Politics" - Margetts (2017)](http://journals.sagepub.com/doi/10.1177/1478929917693643)
+
+### Ethics
+1. [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
+
+### Data
+1. ["Computational research in the post-API age" - Freelon (2018)](https://osf.io/preprints/socarxiv/56f4q)
+2. ["Big Data is Too Small: Research Implications of Class Inequality for Online Data Collection" - Schradie (2017)](https://osf.io/preprints/socarxiv/zm6xy/)
+3. ["Potential Biases in Big Data: Omitted Voices on Social Media" - Hargittai (2018)](http://journals.sagepub.com/doi/abs/10.1177/0894439318788322)
 
 ## Slide Decks
 1. [Sarah Shuggars's Dissertation Proposal](https://www.icloud.com/keynote/0CHGQf1pTCs0lyyPjwkVwvTZA)
