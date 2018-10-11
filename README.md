@@ -29,15 +29,18 @@
   * ["How Officers Create Guardianship: An Agent‐based Model of Policing" - Wise and Cheng (2016)](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12173)
 
 ### Networks
+* *How do groups organize on social media?*
   * ["Hijacking #MYNYPD: Social Media Dissent and Networked Counterpublics" - Jackson and Foucault Welles (2015)](https://academic.oup.com/joc/article/65/6/932/4082320)
   * ["#Ferguson is everywhere: initiators in emerging counterpublic networks" - Jackson and Foucault Welles (2015)](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2015.1106571)
+   * ["Divergent discourse between protests and counter-protests: #BlackLivesMatter and #AllLivesMatter" - Gallagher, Reagan, Danforth, and Dodds (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195644)
   * ["The Dynamics of Protest Recruitment through an Online Network" - González-Bailón, Borge-Holthoefer, Rivero, and Moreno (2011)](https://www.nature.com/articles/srep00197/fig_tab)
   * ["Broadcasters and Hidden Influentials in Online Protest Diffusion" - González-Bailón, Borge-Holthoefer, and Moreno (2013)](http://journals.sagepub.com/doi/abs/10.1177/0002764213479371)
 * *How do liberal and conservative blogs link to one another?*
   * ["The political blogosphere and the 2004 US election: divided they blog" - Adamic and Glance (2005)](https://dl.acm.org/citation.cfm?id=1134277)
   * ["Inferring friendship network structure by using mobile phone data" - Eagle, Pentland, and Lazer (2009)](http://www.pnas.org/content/106/36/15274.short)
-  * ["Divergent discourse between protests and counter-protests: #BlackLivesMatter and #AllLivesMatter" - Gallagher, Reagan, Danforth, and Dodds (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195644)
+* *What can network structure tell us about institutional gender imabalances?*
   * ["Women through the glass ceiling: gender asymmetries in Wikipedia" - Wagner, Graells-Garrido, Garcia and Menczer (2016)](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0066-4)
+* *What can network structure tell us about how we participate in online dating?*
   * ["Aspirational pursuit of mates in online dating markets" - Bruch and Newman (2018)](http://advances.sciencemag.org/content/4/8/eaap9815/tab-pdf)
 
 ### Estimating Latent Characteristics
@@ -84,8 +87,10 @@
 ### Data
 * *What is going to happen when we lose access to some data?*
   * ["Computational research in the post-API age" - Freelon (2018)](https://osf.io/preprints/socarxiv/56f4q)
+* *Are big data biased and, if so, how?*
   * ["Big Data is Too Small: Research Implications of Class Inequality for Online Data Collection" - Schradie (2017)](https://osf.io/preprints/socarxiv/zm6xy/)
   * ["Potential Biases in Big Data: Omitted Voices on Social Media" - Hargittai (2018)](http://journals.sagepub.com/doi/abs/10.1177/0894439318788322)
+* *Could a popular data source be deeply flawed?*
   * ["Caveat emptor, computational social science: Large-scale missing data in a widely-published Reddit corpus" - Gaffney and Matias (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200162)
 
 ## Slide Decks
