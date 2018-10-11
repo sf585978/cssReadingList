@@ -1,2 +1,5 @@
-# cssReadingList
-A list of useful learning resources and research articles on big data and computational social science
+## Books
+1. [*Bit by Bit* - Matt Salganik](https://www.bitbybitbook.com/)
+
+## Articles
+1. 
