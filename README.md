@@ -28,7 +28,10 @@
 
 ### Simulation
 1. ["Mechanics and dynamics of social construction: Modeling the emergence of culture from individual mental representation " - Shaw (2015)](https://lynetteallenshaw.files.wordpress.com/2015/08/mechanicsdynamics_shaw.pdf)
+
 2. ["How Officers Create Guardianship: An Agent‐based Model of Policing" - Wise and Cheng (2016)](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12173)
+
+*What factors influence police behavior?*
 
 ### Networks
 1. ["Hijacking #MYNYPD: Social Media Dissent and Networked Counterpublics" - Jackson and Foucault Welles (2015)](https://academic.oup.com/joc/article/65/6/932/4082320)
@@ -36,6 +39,9 @@
 3. ["The Dynamics of Protest Recruitment through an Online Network" - González-Bailón, Borge-Holthoefer, Rivero, and Moreno (2011)](https://www.nature.com/articles/srep00197/fig_tab)
 4. ["Broadcasters and Hidden Influentials in Online Protest Diffusion" - González-Bailón, Borge-Holthoefer, and Moreno (2013)](http://journals.sagepub.com/doi/abs/10.1177/0002764213479371)
 5. ["The political blogosphere and the 2004 US election: divided they blog" - Adamic and Glance (2005)](https://dl.acm.org/citation.cfm?id=1134277)
+
+*How do liberal and conservative blogs link to one another?*
+
 6. ["Inferring friendship network structure by using mobile phone data" - Eagle, Pentland, and Lazer (2009)](http://www.pnas.org/content/106/36/15274.short)
 7. ["Divergent discourse between protests and counter-protests: #BlackLivesMatter and #AllLivesMatter" - Gallagher, Reagan, Danforth, and Dodds (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195644)
 8. ["Women through the glass ceiling: gender asymmetries in Wikipedia" - Wagner, Graells-Garrido, Garcia and Menczer (2016)](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0066-4)
@@ -43,12 +49,25 @@
 
 ### Estimating Latent Characteristics
 1. ["Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data" - Barberá (2017)](https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A)
+
+*Do choices of who to follow on Twitter reveal ideological preferences?*
+
 2. ["Quantifying Social Media’s Political Space: Estimating Ideology from Publicly Revealed Preferences on Facebook" - Bond and Messing (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/quantifying-social-medias-political-space-estimating-ideology-from-publicly-revealed-preferences-on-facebook/3FBEC9905B32D03F7D453FFCC3644CA3)
+
+*Do choices of which pages to like on Facebook reveal ideological preferences?*
+
 3. ["Measuring the Happiness of Large-Scale Written Expression: Songs, Blogs, and Presidents - Dodds and Danforth (2010)](https://link.springer.com/article/10.1007/s10902-009-9150-9)
+
+*Does the use of language refelect emotional states?*
+
 4. ["Digital Trace Data in the Study of Public Opinion: An Indicator of Attention Toward Politics Rather Than Political Support" - Jungherr, Schoen, and Posegga (2016)](http://journals.sagepub.com/doi/full/10.1177/0894439316631043)
+
+*Are there problems with how we use social-media to infer ideological preferences?*
 
 ### News Exposure
 1. ["Exposure to ideologically diverse news and opinion on Facebook" - Bakshy, Messing, and Adamic (2015)](http://science.sciencemag.org/content/348/6239/1130)
+
+*Do online behaviors lead to diversity in the news we are exposed to and consume?*
 
 ### Policy Evaluation
 1. ["Evaluating the impact of the 2012 Olympic Games policy on the regeneration of East London using spatio-temporal big data" - Zhou, Hristova, Noulas, and Mascolo (2018)](https://arxiv.org/abs/1807.01925)
