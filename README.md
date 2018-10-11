@@ -17,6 +17,10 @@
 3. ["A 61-million-person experiment in social influence and political mobilization" - Bond, Fariss, Jones, Kramer, Marlow, Settle, and Fowler (2012)](https://www.nature.com/articles/nature11421)
 4. ["Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market" - Salganik, Dodds, and Watts (2006)](http://science.sciencemag.org/content/311/5762/854)
 
+### Simulation
+1. ["Mechanics and dynamics of social construction: Modeling the emergence of culture from individual mental representation " - Shaw (2015)](https://lynetteallenshaw.files.wordpress.com/2015/08/mechanicsdynamics_shaw.pdf)
+2. ["How Officers Create Guardianship: An Agent‐based Model of Policing" - Wise and Cheng (2016)](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12173)
+
 ### Networks
 1. ["Hijacking #MYNYPD: Social Media Dissent and Networked Counterpublics" - Jackson and Foucault Welles (2015)](https://academic.oup.com/joc/article/65/6/932/4082320)
 2. ["#Ferguson is everywhere: initiators in emerging counterpublic networks" - Jackson and Foucault Welles (2015)](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2015.1106571)
@@ -42,6 +46,7 @@
 
 ### Language
 1. ["Tie-breaker: Using language models to quantify gender bias in sports journalism" - Fu, Danescu-Niculescu-Mizil, and Lee](http://www.cs.cornell.edu/~liye/tennis.html)
+2. ["A Social Media Based Examination of the Effects of Counseling Recommendations After Student Deaths on College Campuses" - Saha, Weber, and De Choudhury (2018)](http://www.munmund.net/pubs/CounselingReco_ICWSM18.pdf)
 
 ### Digital Humanities
 1. ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics" - Manovich (2016)](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
@@ -61,6 +66,7 @@
 1. ["Computational research in the post-API age" - Freelon (2018)](https://osf.io/preprints/socarxiv/56f4q)
 2. ["Big Data is Too Small: Research Implications of Class Inequality for Online Data Collection" - Schradie (2017)](https://osf.io/preprints/socarxiv/zm6xy/)
 3. ["Potential Biases in Big Data: Omitted Voices on Social Media" - Hargittai (2018)](http://journals.sagepub.com/doi/abs/10.1177/0894439318788322)
+4. ["Caveat emptor, computational social science: Large-scale missing data in a widely-published Reddit corpus" - Gaffney and Matias (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200162)
 
 ## Slide Decks
 1. [Sarah Shuggars's Dissertation Proposal](https://www.icloud.com/keynote/0CHGQf1pTCs0lyyPjwkVwvTZA)
