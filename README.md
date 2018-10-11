@@ -43,21 +43,14 @@
 9. ["Aspirational pursuit of mates in online dating markets" - Bruch and Newman (2018)](http://advances.sciencemag.org/content/4/8/eaap9815/tab-pdf)
 
 ### Estimating Latent Characteristics
-1. ["Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data" - Barberá (2017)](https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A)
-
-*Do choices of who to follow on Twitter reveal ideological preferences?*
-
-2. ["Quantifying Social Media’s Political Space: Estimating Ideology from Publicly Revealed Preferences on Facebook" - Bond and Messing (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/quantifying-social-medias-political-space-estimating-ideology-from-publicly-revealed-preferences-on-facebook/3FBEC9905B32D03F7D453FFCC3644CA3)
-
-*Do choices of which pages to like on Facebook reveal ideological preferences?*
-
-3. ["Measuring the Happiness of Large-Scale Written Expression: Songs, Blogs, and Presidents - Dodds and Danforth (2010)](https://link.springer.com/article/10.1007/s10902-009-9150-9)
-
-*Does the use of language refelect emotional states?*
-
-4. ["Digital Trace Data in the Study of Public Opinion: An Indicator of Attention Toward Politics Rather Than Political Support" - Jungherr, Schoen, and Posegga (2016)](http://journals.sagepub.com/doi/full/10.1177/0894439316631043)
-
-*Are there problems with how we use social-media to infer ideological preferences?*
+* *Do choices of who to follow on Twitter reveal ideological preferences?*
+  * ["Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data" - Barberá (2017)](https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A)
+* *Do choices of which pages to like on Facebook reveal ideological preferences?*
+  * ["Quantifying Social Media’s Political Space: Estimating Ideology from Publicly Revealed Preferences on Facebook" - Bond and Messing (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/quantifying-social-medias-political-space-estimating-ideology-from-publicly-revealed-preferences-on-facebook/3FBEC9905B32D03F7D453FFCC3644CA3)
+* *Does the use of language refelect emotional states?*
+  * ["Measuring the Happiness of Large-Scale Written Expression: Songs, Blogs, and Presidents - Dodds and Danforth (2010)](https://link.springer.com/article/10.1007/s10902-009-9150-9)
+* *Are there problems with how we use social-media to infer ideological preferences?*
+  * ["Digital Trace Data in the Study of Public Opinion: An Indicator of Attention Toward Politics Rather Than Political Support" - Jungherr, Schoen, and Posegga (2016)](http://journals.sagepub.com/doi/full/10.1177/0894439316631043)
 
 ### News Exposure
 1. ["Exposure to ideologically diverse news and opinion on Facebook" - Bakshy, Messing, and Adamic (2015)](http://science.sciencemag.org/content/348/6239/1130)
