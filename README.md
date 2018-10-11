@@ -12,9 +12,9 @@
 6. ["Private traits and attributes are predictable from digital records of human behavior" - Kosinski, Stillwell, and Graepel (2013)](http://www.pnas.org/content/early/2013/03/06/1218772110.short)
 
 ### Experiments
-1. ["Experimental Study of Informal Rewards in Peer Production" - Restivo and van de Rijt (20120)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034358)
+1. [*Do social rewards lead to an increase in participation on Wikipedia?*
 
-*Do social rewards lead to an increase in participation on Wikipedia?*
+"Experimental Study of Informal Rewards in Peer Production" - Restivo and van de Rijt (20120)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034358)
 
 2. ["Exposure to opposing views on social media can increase political polarization" - Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky (2018)](http://www.pnas.org/content/115/37/9216.short)
 
