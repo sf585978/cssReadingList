@@ -47,6 +47,7 @@
 ### Language
 1. ["Tie-breaker: Using language models to quantify gender bias in sports journalism" - Fu, Danescu-Niculescu-Mizil, and Lee](http://www.cs.cornell.edu/~liye/tennis.html)
 2. ["A Social Media Based Examination of the Effects of Counseling Recommendations After Student Deaths on College Campuses" - Saha, Weber, and De Choudhury (2018)](http://www.munmund.net/pubs/CounselingReco_ICWSM18.pdf)
+3. ["Same Difference Estimation and Inference for Distinctiveness at Westminster, 1935–2018" - Spirling, Huang, and Perry (2018)](https://www.nyu.edu/projects/spirling/documents/VeryBoring.pdf)
 
 ### Digital Humanities
 1. ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics" - Manovich (2016)](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
