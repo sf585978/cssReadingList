@@ -37,6 +37,7 @@
   * ["Broadcasters and Hidden Influentials in Online Protest Diffusion" - González-Bailón, Borge-Holthoefer, and Moreno (2013)](http://journals.sagepub.com/doi/abs/10.1177/0002764213479371)
 * *How do liberal and conservative blogs link to one another?*
   * ["The political blogosphere and the 2004 US election: divided they blog" - Adamic and Glance (2005)](https://dl.acm.org/citation.cfm?id=1134277)
+* *Can we identify friendship relations from communication trace data?*
   * ["Inferring friendship network structure by using mobile phone data" - Eagle, Pentland, and Lazer (2009)](http://www.pnas.org/content/106/36/15274.short)
 * *What can network structure tell us about institutional gender imabalances?*
   * ["Women through the glass ceiling: gender asymmetries in Wikipedia" - Wagner, Graells-Garrido, Garcia and Menczer (2016)](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0066-4)
