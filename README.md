@@ -14,7 +14,7 @@
 ### Experiments
 * [*Do social rewards lead to an increase in participation on Wikipedia?*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034358)
 
- * ["Experimental Study of Informal Rewards in Peer Production" - Restivo and van de Rijt (20120)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034358)
+** ["Experimental Study of Informal Rewards in Peer Production" - Restivo and van de Rijt (20120)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034358)
 
 2. ["Exposure to opposing views on social media can increase political polarization" - Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky (2018)](http://www.pnas.org/content/115/37/9216.short)
 
