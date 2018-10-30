@@ -10,6 +10,7 @@
 4. ["Computational Social Science ≠ Computer Science + Social Data" - Wallach (2018)](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext)
 5. ["Critical Questions for Big Data: Provocations for a cultural, technological, and scholarly phenomenon" - boyd and Crawford (2012)](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878)
 6. ["Private traits and attributes are predictable from digital records of human behavior" - Kosinski, Stillwell, and Graepel (2013)](http://www.pnas.org/content/early/2013/03/06/1218772110.short)
+7. ["Digital Footprints: Opportunities and Challenges for Online Social Research" - Golder and Macy (2014)](https://www.annualreviews.org/doi/10.1146/annurev-soc-071913-043145)
 
 ### Experiments
 * *Do social rewards lead to an increase in participation on Wikipedia?*
@@ -18,6 +19,7 @@
   * ["Exposure to opposing views on social media can increase political polarization" - Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky (2018)](http://www.pnas.org/content/115/37/9216.short)
 * Do cues on social media...
   * ["A 61-million-person experiment in social influence and political mobilization" - Bond, Fariss, Jones, Kramer, Marlow, Settle, and Fowler (2012)](https://www.nature.com/articles/nature11421)
+  * ["Experimental evidence of massive-scale emotional contagion through social networks" - Kramer, Guillory, and Hancock (2014)](http://www.pnas.org/content/111/24/8788)
 * *Do early advantages lead to further inequality in the consumption of music?*
   * ["Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market" - Salganik, Dodds, and Watts (2006)](http://science.sciencemag.org/content/311/5762/854)
 
@@ -51,6 +53,8 @@
   * ["Quantifying Social Media’s Political Space: Estimating Ideology from Publicly Revealed Preferences on Facebook" - Bond and Messing (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/quantifying-social-medias-political-space-estimating-ideology-from-publicly-revealed-preferences-on-facebook/3FBEC9905B32D03F7D453FFCC3644CA3)
 * *Does the use of language refelect emotional states?*
   * ["Measuring the Happiness of Large-Scale Written Expression: Songs, Blogs, and Presidents - Dodds and Danforth (2010)](https://link.springer.com/article/10.1007/s10902-009-9150-9)
+  * ["Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures" - Golder and Macy (2011)](http://science.sciencemag.org/content/333/6051/1878)
+  * ["Twitter mood predicts the stock market" - Bollen, Mao, and Zeng (2011)](https://www.sciencedirect.com/science/article/pii/S187775031100007X)
 * *Are there problems with how we use social-media to infer ideological preferences?*
   * ["Digital Trace Data in the Study of Public Opinion: An Indicator of Attention Toward Politics Rather Than Political Support" - Jungherr, Schoen, and Posegga (2016)](http://journals.sagepub.com/doi/full/10.1177/0894439316631043)
 
@@ -59,7 +63,10 @@
   * ["Exposure to ideologically diverse news and opinion on Facebook" - Bakshy, Messing, and Adamic (2015)](http://science.sciencemag.org/content/348/6239/1130)
 
 ### Policy Evaluation
+* *How can we measure economic impacts?*
   * ["Evaluating the impact of the 2012 Olympic Games policy on the regeneration of East London using spatio-temporal big data" - Zhou, Hristova, Noulas, and Mascolo (2018)](https://arxiv.org/abs/1807.01925)
+* *How do governments censor their citizens?*
+  * ["How Censorship in China Allows Government Criticism but Silences Collective Expression" - King, Pan, and Roberts (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/how-censorship-in-china-allows-government-criticism-but-silences-collective-expression/C7EF4A9C9D59425C2D09D83742C1FE00)
 
 ### Language
 * *Can we use the questions asked of athletes to identify subtle gender biases?*
@@ -84,6 +91,8 @@
   * ["Analyzing Incomplete Political Science Data: An Alternative Algorithm for Multiple Imputation" - King, Honaker, Joseph, and Scheve (2001)](https://www.cambridge.org/core/journals/american-political-science-review/article/analyzing-incomplete-political-science-data-an-alternative-algorithm-for-multiple-imputation/9E712982CCE2DE79A574FE98488F212B)
 * *How can we use data science to implement political science methods?*
   * ["The Data Science of Politics" - Margetts (2017)](http://journals.sagepub.com/doi/10.1177/1478929917693643)
+* *What purpose do models serve?*
+  * ["To Explain or to Predict?" - Shmueli (2010)](https://projecteuclid.org/euclid.ss/1294167961)
 
 ### Ethics
   * [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
@@ -96,6 +105,15 @@
   * ["Potential Biases in Big Data: Omitted Voices on Social Media" - Hargittai (2018)](http://journals.sagepub.com/doi/abs/10.1177/0894439318788322)
 * *Could a popular data source be deeply flawed?*
   * ["Caveat emptor, computational social science: Large-scale missing data in a widely-published Reddit corpus" - Gaffney and Matias (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200162)
+  * ["Social media for large studies of behavior" - Ruths and Pfeffer (2014)](http://science.sciencemag.org/content/346/6213/1063/tab-pdf)
+  * ["Big Questions for Social Media Big Data: Representativeness, Validity and Other Methodological Pitfalls" - Tufekci (2014)](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8062)
+  * ["Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election" - Meng (2018)](https://projecteuclid.org/euclid.aoas/1532743473)
+* *How should we collect our data?*
+  * ["Real scientists make their own data" - Sean J. Taylor (2013)](https://seanjtaylor.com/post/41463778912/real-scientists-make-their-own-data)
+  
+### Theory
+* * ["Bringing Social Science Back In: The “Big Data” Revolution and Urban Theory" - Sampson and Small (2015)](http://citiespapers.ssrc.org/bringing-social-science-back-in-the-big-data-revolution-and-urban-theory/)
+* * ["An Emerging Trend: Is Big Data the End of Theory?" - Macy (2016)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118900772.etrds0410)
 
 ## Slide Decks
   * [Sarah Shuggars's Dissertation Proposal](https://www.icloud.com/keynote/0CHGQf1pTCs0lyyPjwkVwvTZA)
