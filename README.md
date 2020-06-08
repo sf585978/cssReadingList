@@ -98,6 +98,8 @@
   * [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
 
 ### Data
+* *How can we combine data sources?*
+  * ["Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field "](https://journals.sagepub.com/doi/full/10.1177/0894439319843669)
 * *What is going to happen when we lose access to some data?*
   * ["Computational research in the post-API age" - Freelon (2018)](https://osf.io/preprints/socarxiv/56f4q)
 * *Are big data biased and, if so, how?*
