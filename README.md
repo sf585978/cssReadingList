@@ -139,5 +139,8 @@
 * * ["Bringing Social Science Back In: The “Big Data” Revolution and Urban Theory" - Sampson and Small (2015)](http://citiespapers.ssrc.org/bringing-social-science-back-in-the-big-data-revolution-and-urban-theory/)
 * * ["An Emerging Trend: Is Big Data the End of Theory?" - Macy (2016)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118900772.etrds0410)
 
+## Courses
+1. [Summer Institutes in Computational Social Science](https://sicss.io/curriculum)
+
 ## Slide Decks
   * [Sarah Shuggars's Dissertation Proposal](https://www.icloud.com/keynote/0CHGQf1pTCs0lyyPjwkVwvTZA)
