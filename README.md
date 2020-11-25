@@ -1,6 +1,6 @@
 ## Books
 1. [*Bit by Bit* - Salganik](https://www.bitbybitbook.com/)
-2. *Decoding the Social World* - González-Bailón
+2. [*Decoding the Social World* - González-Bailón](https://mitpress.mit.edu/books/decoding-social-world) ([Video](https://www.youtube.com/watch?v=o2y9hNvwiTM))
 
 ## Articles
 ### General
@@ -11,6 +11,7 @@
 5. ["Critical Questions for Big Data: Provocations for a cultural, technological, and scholarly phenomenon" - boyd and Crawford (2012)](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878)
 6. ["Private traits and attributes are predictable from digital records of human behavior" - Kosinski, Stillwell, and Graepel (2013)](http://www.pnas.org/content/early/2013/03/06/1218772110.short)
 7. ["Digital Footprints: Opportunities and Challenges for Online Social Research" - Golder and Macy (2014)](https://www.annualreviews.org/doi/10.1146/annurev-soc-071913-043145)
+8. ["Computational social science: Obstacles and opportunities" - Lazer et. al. (2020)](https://science.sciencemag.org/content/369/6507/1060.summary)
 
 ### Experiments
 * *Do social rewards lead to an increase in participation on Wikipedia?*
