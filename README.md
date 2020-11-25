@@ -63,6 +63,10 @@
 * *Do online behaviors lead to diversity in the news we are exposed to and consume?*
   * ["Exposure to ideologically diverse news and opinion on Facebook" - Bakshy, Messing, and Adamic (2015)](http://science.sciencemag.org/content/348/6239/1130)
 
+### Platform Studies
+* *Are digital platforms biased?*
+  * ["Auditing local news presence on Google News" - Fischer, Jaidka, and Lelkes (2020)](https://www.nature.com/articles/s41562-020-00954-0)
+
 ### Policy Evaluation
 * *How can we measure economic impacts?*
   * ["Evaluating the impact of the 2012 Olympic Games policy on the regeneration of East London using spatio-temporal big data" - Zhou, Hristova, Noulas, and Mascolo (2018)](https://arxiv.org/abs/1807.01925)
