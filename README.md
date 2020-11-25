@@ -65,7 +65,10 @@
 
 ### Platform Studies
 * *Are digital platforms biased?*
+  * ["The search engine manipulation effect (SEME) and its possible impact on the outcomes of elections" - Epstein and Robertson (2015)](https://www.pnas.org/content/112/33/E4512.short)
   * ["Auditing local news presence on Google News" - Fischer, Jaidka, and Lelkes (2020)](https://www.nature.com/articles/s41562-020-00954-0)
+  * ["Auditing Partisan Audience Bias within Google Search" - Robertson et. al. (2018)](https://dl.acm.org/doi/abs/10.1145/3274417)
+  * ["Auditing the Personalization and Composition of Politically-Related Search Engine Results Pages" - Robertson, Lazer, and Wilson (2018)](https://dl.acm.org/doi/abs/10.1145/3178876.3186143)
 
 ### Policy Evaluation
 * *How can we measure economic impacts?*
