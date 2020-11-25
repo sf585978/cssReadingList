@@ -12,6 +12,8 @@
 6. ["Private traits and attributes are predictable from digital records of human behavior" - Kosinski, Stillwell, and Graepel (2013)](http://www.pnas.org/content/early/2013/03/06/1218772110.short)
 7. ["Digital Footprints: Opportunities and Challenges for Online Social Research" - Golder and Macy (2014)](https://www.annualreviews.org/doi/10.1146/annurev-soc-071913-043145)
 8. ["Computational social science: Obstacles and opportunities" - Lazer et. al. (2020)](https://science.sciencemag.org/content/369/6507/1060.summary)
+9. ["Computational Social Science and the Study of Political Communication" - Theocharis and Jungherr (2020)](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1833121)
+
 
 ### Experiments
 * *Do social rewards lead to an increase in participation on Wikipedia?*
@@ -83,6 +85,12 @@
   * ["A Social Media Based Examination of the Effects of Counseling Recommendations After Student Deaths on College Campuses" - Saha, Weber, and De Choudhury (2018)](http://www.munmund.net/pubs/CounselingReco_ICWSM18.pdf)
 * *Can language reveal how boring politicans are?*
   * ["Same Difference Estimation and Inference for Distinctiveness at Westminster, 1935–2018" - Spirling, Huang, and Perry (2018)](https://www.nyu.edu/projects/spirling/documents/VeryBoring.pdf)
+* *Does language reflect political partisanship and polarization?*
+  * ["Elusive consensus: Polarization in elite communication on the COVID-19 pandemic" - Green et. al. (2020)](https://advances.sciencemag.org/content/6/28/eabc2717.abstract)
+  
+### Visual Communication
+* *How do emotions affect political attitudes?*
+  * ["Facing the Electorate: Computational Approaches to the Study of Nonverbal Communication and Voter Impression Formation" - Boussalis and Coan (2020)](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1784327)
 
 ### Digital Humanities
   * ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics" - Manovich (2016)](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
@@ -101,6 +109,8 @@
   * ["The Data Science of Politics" - Margetts (2017)](http://journals.sagepub.com/doi/10.1177/1478929917693643)
 * *What purpose do models serve?*
   * ["To Explain or to Predict?" - Shmueli (2010)](https://projecteuclid.org/euclid.ss/1294167961)
+* *Which text methods are best in which contexts?*
+  * ["Computational Identification of Media Frames: Strengths, Weaknesses, and Opportunities" - Nicholls and Culpepper (2020)](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1812777)
 
 ### Ethics
   * [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
