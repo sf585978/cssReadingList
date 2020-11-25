@@ -13,6 +13,7 @@
 7. ["Digital Footprints: Opportunities and Challenges for Online Social Research" - Golder and Macy (2014)](https://www.annualreviews.org/doi/10.1146/annurev-soc-071913-043145)
 8. ["Computational social science: Obstacles and opportunities" - Lazer et. al. (2020)](https://science.sciencemag.org/content/369/6507/1060.summary)
 9. ["Computational Social Science and the Study of Political Communication" - Theocharis and Jungherr (2020)](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1833121)
+10. ["The empiricist’s challenge: Asking meaningful questions in political science in the age of big data" - Jungherr and Theocharis (2017)](https://www.tandfonline.com/doi/full/10.1080/19331681.2017.1312187)
 
 
 ### Experiments
@@ -114,6 +115,9 @@
 
 ### Ethics
   * [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
+  
+* *What are some examples that are ethically dubious or outright bad?*
+  * ["Tracking historical changes in trustworthiness using machine learning analyses of facial cues in paintings" - Safra, Chevallier, Grèzes, and Baumard (2020)](https://www.nature.com/articles/s41467-020-18566-7)
 
 ### Data
 * *How can we combine data sources?*
