@@ -1,6 +1,7 @@
 ## Books
 1. [*Bit by Bit* - Salganik](https://www.bitbybitbook.com/)
 2. [*Decoding the Social World* - González-Bailón](https://mitpress.mit.edu/books/decoding-social-world) ([Video](https://www.youtube.com/watch?v=o2y9hNvwiTM))
+3. [*Oxford Handbook of Networked Communication* - Foucault Welles and González-Bailón](https://www.google.com/books/edition/The_Oxford_Handbook_of_Networked_Communi/JjLNDwAAQBAJ?hl=en&gbpv=0)
 
 ## Articles
 ### General
