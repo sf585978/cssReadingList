@@ -113,6 +113,9 @@
   * ["To Explain or to Predict?" - Shmueli (2010)](https://projecteuclid.org/euclid.ss/1294167961)
 * *Which text methods are best in which contexts?*
   * ["Computational Identification of Media Frames: Strengths, Weaknesses, and Opportunities" - Nicholls and Culpepper (2020)](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1812777)
+* *How can we combine data sources?*
+  * ["Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field - Stier, Breuer, Siegers, and Thorson (2019)"](https://journals.sagepub.com/doi/full/10.1177/0894439319843669)
+  * ["Combining Big Data and Survey Techniques to Model Effects of Political Content Flows in Facebook" - Wells and Thorson (2015)](https://journals.sagepub.com/doi/abs/10.1177/0894439315609528)
 
 ### Ethics
   * [Actually, It’s About Ethics in Computational Social Science: A Multi-party Risk-Benefit Framework for Online Community Research - Keegan and Mattias (2016)](https://cscw2016hcds.files.wordpress.com/2015/10/keegan_hcds2016.pdf)
@@ -121,8 +124,6 @@
   * ["Tracking historical changes in trustworthiness using machine learning analyses of facial cues in paintings" - Safra, Chevallier, Grèzes, and Baumard (2020)](https://www.nature.com/articles/s41467-020-18566-7)
 
 ### Data
-* *How can we combine data sources?*
-  * ["Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field "](https://journals.sagepub.com/doi/full/10.1177/0894439319843669)
 * *What is going to happen when we lose access to some data?*
   * ["Computational research in the post-API age" - Freelon (2018)](https://osf.io/preprints/socarxiv/56f4q)
 * *Are big data biased and, if so, how?*
