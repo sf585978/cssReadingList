@@ -73,6 +73,9 @@
   * ["Auditing local news presence on Google News" - Fischer, Jaidka, and Lelkes (2020)](https://www.nature.com/articles/s41562-020-00954-0)
   * ["Auditing Partisan Audience Bias within Google Search" - Robertson et. al. (2018)](https://dl.acm.org/doi/abs/10.1145/3274417)
   * ["Auditing the Personalization and Composition of Politically-Related Search Engine Results Pages" - Robertson, Lazer, and Wilson (2018)](https://dl.acm.org/doi/abs/10.1145/3178876.3186143)
+* *What are the consequences of algorithmic decision making?*
+  * ["Birds of a Feather Get Recommended Together: Algorithmic Homophily in YouTube’s Channel Recommendations in the United States and Germany" - Kaiser and Rauchfleisch (2020)](https://journals.sagepub.com/doi/full/10.1177/2056305120969914)
+
 
 ### Policy Evaluation
 * *How can we measure economic impacts?*
