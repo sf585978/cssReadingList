@@ -139,6 +139,7 @@
   * ["Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election" - Meng (2018)](https://projecteuclid.org/euclid.aoas/1532743473)
 * *How should we collect our data?*
   * ["Real scientists make their own data" - Sean J. Taylor (2013)](https://seanjtaylor.com/post/41463778912/real-scientists-make-their-own-data)
+  * ["Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning" - Jo and Gebru (2019)](https://arxiv.org/abs/1912.10389)
 * *How should we document our data?*
   * ["Datasheets for Datasets" - Gebru et. al. (2020)](https://arxiv.org/abs/1803.09010)
   
