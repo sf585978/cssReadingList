@@ -139,6 +139,8 @@
   * ["Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election" - Meng (2018)](https://projecteuclid.org/euclid.aoas/1532743473)
 * *How should we collect our data?*
   * ["Real scientists make their own data" - Sean J. Taylor (2013)](https://seanjtaylor.com/post/41463778912/real-scientists-make-their-own-data)
+* *How should we document our data?*
+  * ["Datasheets for Datasets" - Gebru et. al. (2020)](https://arxiv.org/abs/1803.09010)
   
 ### Theory
 * * ["Bringing Social Science Back In: The “Big Data” Revolution and Urban Theory" - Sampson and Small (2015)](http://citiespapers.ssrc.org/bringing-social-science-back-in-the-big-data-revolution-and-urban-theory/)
